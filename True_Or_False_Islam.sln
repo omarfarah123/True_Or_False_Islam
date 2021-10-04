@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "True_Or_False_Islam", "True_Or_False_Islam\True_Or_False_Islam.csproj", "{DFC5D560-1558-4EDE-969C-C2E006F18D46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC5D560-1558-4EDE-969C-C2E006F18D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC5D560-1558-4EDE-969C-C2E006F18D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC5D560-1558-4EDE-969C-C2E006F18D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC5D560-1558-4EDE-969C-C2E006F18D46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2666BE26-530D-445E-A518-1CE51B15D09F}
+	EndGlobalSection
+EndGlobal
